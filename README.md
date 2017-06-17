@@ -9,3 +9,6 @@ Arquivos PHP para implementação de boletos com registro.
 * Itaú
 * Santander
 * Sicoob
+
+Créditos
+* http://www.remessaphp.com.br
