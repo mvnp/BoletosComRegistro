@@ -12,3 +12,4 @@ Arquivos PHP para implementação de boletos com registro.
 
 Créditos
 * http://www.remessaphp.com.br
+* Marcos Pereira (https://github.com/mvnp)
